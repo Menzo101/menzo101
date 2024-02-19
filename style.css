@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boy,img{
+    width: 80px;
+    margin-left: 30px;
+
+}  
+
+.boy{
+    display: flex;
+    margin: 20px;
+}
